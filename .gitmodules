@@ -1,0 +1,3 @@
+[submodule "external/qontext"]
+	path = external/qontext
+	url = https://github.com/ColourQuill/qontext
